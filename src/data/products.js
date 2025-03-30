@@ -71,4 +71,4 @@ export const products = [
     flavors: ["Bisküvi", "Çikolata", "Muz", "Salted Caramel"],
     sizes: ["400G - 16 Servis", "1.6KG - 64 Servis"],
   },
-]; 
+];
